@@ -1,52 +1,81 @@
 [
   {
-    "name": "RegressionAI",
-    "likes": 3479,
-    "downloads": 867,
-    "lastUpdated": "2023-04-19",
+    "name": "LearningSpeech",
+    "likes": 2328,
+    "downloads": 580,
+    "lastUpdated": "2023-12-27",
+    "modelType": "Clustering Models",
+    "requirements": [
+      "JavaScript",
+      "Node.js"
+    ],
+    "releaseDate": "2022-03-08",
+    "author": "Random Author",
+    "modelResource": "https://example.com/models/learningspeech",
+    "description": "Model Recognition AI Model Image Image Machine Learning Data Regression. Model Algorithm Classification Data Recognition Algorithm Model. Text Data Classification Classification AI.",
+    "tryItOutFeature": true,
+    "api": "randomapi.com",
+    "inputSample": [
+      {
+        "type": "text",
+        "label": "Input-sample-0",
+        "key": "input-0"
+      }
+    ],
+    "outputSample": {
+      "type": "text",
+      "label": "Output",
+      "key": "output"
+    }
+  },
+  {
+    "name": "RegressionText",
+    "likes": 3550,
+    "downloads": 705,
+    "lastUpdated": "2024-01-10",
+    "modelType": "Reinforcement Learning",
+    "requirements": [
+      "JavaScript",
+      "Node.js"
+    ],
+    "releaseDate": "2023-06-14",
+    "author": "Random Author",
+    "modelResource": "https://example.com/models/regressiontext",
+    "description": "Learning Embedding AI Image Predictive Embedding Machine AI Embedding Image. Speech Data Algorithm AI Analysis Algorithm Predictive. Speech Data AI Machine Text.",
+    "tryItOutFeature": true,
+    "api": "randomapi.com",
+    "inputSample": [
+      {
+        "type": "text",
+        "label": "Input-sample-0",
+        "key": "input-0"
+      },
+      {
+        "type": "text",
+        "label": "Input-sample-1",
+        "key": "input-1"
+      }
+    ],
+    "outputSample": {
+      "type": "text",
+      "label": "Output",
+      "key": "output"
+    }
+  },
+  {
+    "name": "PredictiveAnalysis",
+    "likes": 3948,
+    "downloads": 511,
+    "lastUpdated": "2023-04-12",
     "modelType": "Natural Language Processing",
     "requirements": [
       "JavaScript",
       "Node.js"
     ],
-    "releaseDate": "2016-04-09",
+    "releaseDate": "2022-11-04",
     "author": "Random Author",
-    "modelResource": "https://example.com/models/regressionai",
-    "description": "Text Analysis Analysis Model Analysis Model Analysis Speech Data Image. Predictive Speech Classification Model Image Classification Analysis. Algorithm Text Regression Data AI.",
-    "tryItOutFeature": true,
-    "api": "randomapi.com",
-    "inputSample": [
-      {
-        "type": "text",
-        "label": "Input-sample-0",
-        "key": "input-0"
-      },
-      {
-        "type": "text",
-        "label": "Input-sample-1",
-        "key": "input-1"
-      }
-    ],
-    "outputSample": {
-      "type": "file",
-      "label": "Output",
-      "key": "output"
-    }
-  },
-  {
-    "name": "EmbeddingImage",
-    "likes": 4751,
-    "downloads": 773,
-    "lastUpdated": "2023-07-24",
-    "modelType": "Clustering Models",
-    "requirements": [
-      "JavaScript",
-      "Node.js"
-    ],
-    "releaseDate": "2016-05-31",
-    "author": "Random Author",
-    "modelResource": "https://example.com/models/embeddingimage",
-    "description": "Speech Analysis Predictive Predictive Machine Analysis AI Machine Classification Regression. Algorithm Predictive Speech Machine AI Embedding Recognition. Recognition Image AI Regression Image.",
+    "modelResource": "https://example.com/models/predictiveanalysis",
+    "description": "Data Embedding Regression Classification Analysis Classification Regression Recognition Predictive Recognition. Recognition Speech Recognition Algorithm Model Machine Analysis. Data Model AI Regression Recognition.",
     "tryItOutFeature": true,
     "api": "randomapi.com",
     "inputSample": [
@@ -63,237 +92,19 @@
     }
   },
   {
-    "name": "AlgorithmRecognition",
-    "likes": 2915,
-    "downloads": 592,
-    "lastUpdated": "2023-03-16",
-    "modelType": "Reinforcement Learning",
-    "requirements": [
-      "JavaScript",
-      "Node.js"
-    ],
-    "releaseDate": "2019-06-14",
-    "author": "Random Author",
-    "modelResource": "https://example.com/models/algorithmrecognition",
-    "description": "Classification Regression Learning Machine Learning AI Image Classification Classification Data. Algorithm Algorithm Recognition Analysis Machine Algorithm AI. AI Predictive Text Algorithm Text.",
-    "tryItOutFeature": true,
-    "api": "randomapi.com",
-    "inputSample": [
-      {
-        "type": "file",
-        "label": "Input-sample-0",
-        "key": "input-0"
-      },
-      {
-        "type": "text",
-        "label": "Input-sample-1",
-        "key": "input-1"
-      }
-    ],
-    "outputSample": {
-      "type": "file",
-      "label": "Output",
-      "key": "output"
-    }
-  },
-  {
-    "name": "MachineText",
-    "likes": 4586,
-    "downloads": 473,
-    "lastUpdated": "2023-08-16",
-    "modelType": "Clustering Models",
-    "requirements": [
-      "JavaScript",
-      "Node.js"
-    ],
-    "releaseDate": "2021-01-13",
-    "author": "Random Author",
-    "modelResource": "https://example.com/models/machinetext",
-    "description": "Text Speech Predictive Text Algorithm Image Regression Image Analysis Machine. Embedding Data Predictive Image Classification Model Image. Machine Embedding Learning Regression Predictive.",
-    "tryItOutFeature": true,
-    "api": "randomapi.com",
-    "inputSample": [
-      {
-        "type": "file",
-        "label": "Input-sample-0",
-        "key": "input-0"
-      }
-    ],
-    "outputSample": {
-      "type": "text",
-      "label": "Output",
-      "key": "output"
-    }
-  },
-  {
-    "name": "MachineImage",
-    "likes": 1762,
-    "downloads": 501,
-    "lastUpdated": "2024-01-01",
-    "modelType": "Reinforcement Learning",
-    "requirements": [
-      "JavaScript",
-      "Node.js"
-    ],
-    "releaseDate": "2017-07-17",
-    "author": "Random Author",
-    "modelResource": "https://example.com/models/machineimage",
-    "description": "Classification Embedding Classification Speech Speech Algorithm Analysis Analysis Embedding Embedding. Predictive Image Classification Learning AI Speech Analysis. Text Learning Classification Text Recognition.",
-    "tryItOutFeature": true,
-    "api": "randomapi.com",
-    "inputSample": [
-      {
-        "type": "text",
-        "label": "Input-sample-0",
-        "key": "input-0"
-      },
-      {
-        "type": "text",
-        "label": "Input-sample-1",
-        "key": "input-1"
-      }
-    ],
-    "outputSample": {
-      "type": "text",
-      "label": "Output",
-      "key": "output"
-    }
-  },
-  {
-    "name": "DataModel",
-    "likes": 4004,
-    "downloads": 197,
-    "lastUpdated": "2023-10-15",
-    "modelType": "Time Series Models",
-    "requirements": [
-      "JavaScript",
-      "Node.js"
-    ],
-    "releaseDate": "2018-04-24",
-    "author": "Random Author",
-    "modelResource": "https://example.com/models/datamodel",
-    "description": "Text Image Speech Text Learning Recognition Speech Machine Data Model. Text Regression Regression Image Model Machine Embedding. AI Regression Machine Model Text.",
-    "tryItOutFeature": true,
-    "api": "randomapi.com",
-    "inputSample": [
-      {
-        "type": "text",
-        "label": "Input-sample-0",
-        "key": "input-0"
-      }
-    ],
-    "outputSample": {
-      "type": "text",
-      "label": "Output",
-      "key": "output"
-    }
-  },
-  {
-    "name": "PredictiveLearning",
-    "likes": 4539,
-    "downloads": 736,
-    "lastUpdated": "2023-02-18",
-    "modelType": "Anomaly Detection Models",
-    "requirements": [
-      "JavaScript",
-      "Node.js"
-    ],
-    "releaseDate": "2022-02-01",
-    "author": "Random Author",
-    "modelResource": "https://example.com/models/predictivelearning",
-    "description": "Text Model Text Algorithm Text Text Algorithm Image Analysis Regression. Data Model Regression Machine Classification Learning Recognition. Text Data Classification Classification Image.",
-    "tryItOutFeature": true,
-    "api": "randomapi.com",
-    "inputSample": [
-      {
-        "type": "text",
-        "label": "Input-sample-0",
-        "key": "input-0"
-      }
-    ],
-    "outputSample": {
-      "type": "text",
-      "label": "Output",
-      "key": "output"
-    }
-  },
-  {
-    "name": "AlgorithmRecognition",
-    "likes": 1576,
-    "downloads": 884,
-    "lastUpdated": "2024-02-01",
-    "modelType": "Clustering Models",
-    "requirements": [
-      "JavaScript",
-      "Node.js"
-    ],
-    "releaseDate": "2015-10-11",
-    "author": "Random Author",
-    "modelResource": "https://example.com/models/algorithmrecognition",
-    "description": "Embedding Speech Text Algorithm AI Embedding Recognition Algorithm Classification Classification. Speech Predictive Analysis Data Text Predictive Algorithm. Analysis Data Regression Data Classification.",
-    "tryItOutFeature": true,
-    "api": "randomapi.com",
-    "inputSample": [
-      {
-        "type": "text",
-        "label": "Input-sample-0",
-        "key": "input-0"
-      }
-    ],
-    "outputSample": {
-      "type": "text",
-      "label": "Output",
-      "key": "output"
-    }
-  },
-  {
-    "name": "SpeechImage",
-    "likes": 3411,
-    "downloads": 440,
-    "lastUpdated": "2023-08-03",
-    "modelType": "Unsupervised Learning",
-    "requirements": [
-      "JavaScript",
-      "Node.js"
-    ],
-    "releaseDate": "2018-07-09",
-    "author": "Random Author",
-    "modelResource": "https://example.com/models/speechimage",
-    "description": "Recognition Machine Learning Algorithm Embedding Recognition Text Algorithm Speech Regression. Machine Embedding Regression Image Embedding Speech Analysis. Image Classification Model Algorithm AI.",
-    "tryItOutFeature": true,
-    "api": "randomapi.com",
-    "inputSample": [
-      {
-        "type": "text",
-        "label": "Input-sample-0",
-        "key": "input-0"
-      },
-      {
-        "type": "text",
-        "label": "Input-sample-1",
-        "key": "input-1"
-      }
-    ],
-    "outputSample": {
-      "type": "text",
-      "label": "Output",
-      "key": "output"
-    }
-  },
-  {
-    "name": "LearningAnalysis",
-    "likes": 392,
-    "downloads": 623,
-    "lastUpdated": "2023-08-10",
+    "name": "SpeechAI",
+    "likes": 2925,
+    "downloads": 740,
+    "lastUpdated": "2023-06-26",
     "modelType": "Generative Models",
     "requirements": [
       "JavaScript",
       "Node.js"
     ],
-    "releaseDate": "2023-10-07",
+    "releaseDate": "2021-06-01",
     "author": "Random Author",
-    "modelResource": "https://example.com/models/learninganalysis",
-    "description": "Regression Analysis Recognition Machine Classification Algorithm Learning Embedding Data Regression. Model AI Algorithm Machine AI Recognition Machine. Speech Analysis Analysis Regression Classification.",
+    "modelResource": "https://example.com/models/speechai",
+    "description": "Regression Analysis Learning Classification Model Algorithm Speech Speech AI Data. Text Regression Text Analysis Text Machine Predictive. Algorithm Recognition Algorithm Machine Analysis.",
     "tryItOutFeature": true,
     "api": "randomapi.com",
     "inputSample": [
@@ -310,19 +121,19 @@
     }
   },
   {
-    "name": "SpeechLearning",
-    "likes": 1014,
-    "downloads": 273,
-    "lastUpdated": "2023-04-07",
-    "modelType": "Anomaly Detection Models",
+    "name": "MachineAI",
+    "likes": 1752,
+    "downloads": 370,
+    "lastUpdated": "2023-05-08",
+    "modelType": "Ensemble Models",
     "requirements": [
       "JavaScript",
       "Node.js"
     ],
-    "releaseDate": "2020-09-18",
+    "releaseDate": "2015-03-27",
     "author": "Random Author",
-    "modelResource": "https://example.com/models/speechlearning",
-    "description": "Learning Learning Text Machine Embedding Model Recognition Machine Embedding Model. Learning Learning Algorithm Data Data Embedding Embedding. Analysis Learning Recognition Speech Model.",
+    "modelResource": "https://example.com/models/machineai",
+    "description": "Algorithm Embedding Learning Machine Analysis Text Algorithm Learning Data Embedding. Analysis Machine Machine Algorithm Embedding Speech Algorithm. Algorithm Image Recognition Algorithm Image.",
     "tryItOutFeature": true,
     "api": "randomapi.com",
     "inputSample": [
@@ -330,11 +141,6 @@
         "type": "text",
         "label": "Input-sample-0",
         "key": "input-0"
-      },
-      {
-        "type": "text",
-        "label": "Input-sample-1",
-        "key": "input-1"
       }
     ],
     "outputSample": {
